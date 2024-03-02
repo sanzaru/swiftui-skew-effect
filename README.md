@@ -6,4 +6,4 @@ This repository is based on my article on medium: https://medium.com/itnext/swif
 Image source: https://unsplash.com/photos/aerial-photograph-of-city-mlOvsx4xdaA
 
 ## Screenshot
-![Example screenshot](https://miro.medium.com/v2/resize:fit:640/format:webp/1*8x-hFlf8_bwwuZSlhpu1_A.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhlNDFxcWJiZzN6b2UyenJoNTE4MGI1bjd2OWM2a2JtbmE4ZGppZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAcKTDrgAbVjQKoApo/giphy.gif)
